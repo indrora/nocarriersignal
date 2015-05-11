@@ -1,0 +1,1847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-0x12a4740" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Inform 7</generator>
+  <activeNode nodeId="node-0x12a4740"/>
+  <item nodeId="node-0x12a4740">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+  
+ Our story starts with me waking one morning. Normally, my morning starts with grabbing the essentials: A breakfast beer, some eggs, maybe checking in on the news grid. This morning however, something is... different.
+
+Last night, I made a mistake. I fell asleep while jacked in and slipping through my company&apos;s network. The Ethninicon network is one of the most heavily guarded grid systems out there, and I fell asleep while hunting down some pesky kid beating on the door to one of our systems.
+
+
+No Carrier Signal
+Do your eyes deceive you? by Morgan Gangwere
+Release 1 / Serial number 150425 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
+
+Your apartment.
+&quot;Ugh....&quot; I groan as I roll off my futon. &quot;Fuck me and this damn town.&quot; Looking down at my Cyberdeck, I notice it&apos;s not happy with me; A blinking light and a horrible, nasty sound come from it. 
+
+I figure I might as well get on with my morning. Two problems: No beer (this is a serious fucking problem) and my head feels like someone&apos;s put my frontal lobe into an atom smasher.
+
+No use in dawdling here, I need a drink, and for that, it&apos;s off to Cyberia.
+
+I can see the door to my apartment and a sidetable (on which are a cellphone and a cyberdeck) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x12a48c0"/>
+      <child nodeId="node-0x19d4a50"/>
+      <child nodeId="node-0x19f0180"/>
+      <child nodeId="node-0x19f0480"/>
+      <child nodeId="node-0x19f0c00"/>
+      <child nodeId="node-0x1a7c420"/>
+      <child nodeId="node-0x1aa6490"/>
+      <child nodeId="node-0x12ae2e0"/>
+      <child nodeId="node-0x12aed60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x12a48c0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">(first opening your apartment door)
+You rattle the lock, fiddling with the manual side. It doesn&apos;t work.
+
+Ring... Ring...
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x12a4a40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x12a4a40">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">(first opening your apartment door)
+Something keeps you from trying the lock. A voice in the back of your head says &quot;Answer the phone, Mr. Hälberg.&quot;
+
+Ring... Ring...
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x12a4bc0"/>
+      <child nodeId="node-0x19d4150"/>
+    </children>
+  </item>
+  <item nodeId="node-0x12a4bc0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">(first opening your apartment door)
+Something keeps you from trying the lock. A voice in the back of your head says &quot;Answer the phone, Mr. Hälberg.&quot;
+
+Ring... Ring...
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x12a4d40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x12a4d40">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x12a4ec0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x12a4ec0">
+    <command xml:space="preserve">answer the phone</command>
+    <result xml:space="preserve">A gruff voice on the other end fades in.
+
+&quot;Hello, Mister Hälberg. You don&apos;t know me, but I... I know you. I know what you do. I know who you work for. You&apos;ve checked your door, right? It seems you know things that We want to know.&quot;
+
+&quot;You don&apos;t know me very well. My name is Mister K. Right now, the Mitsutoya implant in your head is mine.&quot; As he says that, your vision goes blank.
+
+&quot;I can make you hear anything,&quot; he says, the voice deepening and echoing,&quot; I can make you see anything,&quot; your vision filled with fire, &quot;and most of all, Mr. Hälberg, I can make you feel anything.&quot; Your skin crawls, burning. Pain rushes through your body as you drop to the floor.
+
+&quot;Goodbye, Mr. Hälberg. Come see me in the Osman building, floor 314. You&apos;ll know where I am.&quot;
+
+Your vision clears. You realize you never picked up the phone: It&apos;s sitting tidily on its base, the handset glistening its usual ruby red.
+You set down receiver.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x19d4150">
+    <command xml:space="preserve">answer phone</command>
+    <result xml:space="preserve">A gruff voice on the other end fades in.
+
+&quot;Hello, Mister Hälberg. You don&apos;t know me, but I... I know you. I know what you do. I know who you work for. You&apos;ve checked your door, right? It seems you know things that We want to know.&quot;
+
+&quot;You don&apos;t know me very well. My name is Mister K. Right now, the Mitsutoya implant in your head is mine.&quot; As he says that, your vision goes blank.
+
+&quot;I can make you hear anything,&quot; he says, the voice deepening and echoing,&quot; I can make you see anything,&quot; your vision filled with fire, &quot;and most of all, Mr. Hälberg, I can make you feel anything.&quot; Your skin crawls, burning. Pain rushes through your body as you drop to the floor.
+
+&quot;Goodbye, Mr. Hälberg. Come see me in the Osman building, floor 314. You&apos;ll know where I am.&quot;
+
+Your vision clears. You realize you never picked up the phone: It&apos;s sitting tidily on its base, the handset glistening its usual ruby red.
+You set down receiver.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x19d42d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x19d42d0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">(first opening your apartment door)
+You shouldn&apos;t leave without your cellphone.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x19d4450"/>
+    </children>
+  </item>
+  <item nodeId="node-0x19d4450">
+    <command xml:space="preserve">take phone, clothes</command>
+    <result xml:space="preserve">Playercellphone: Taken.
+your clothes: Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x19d45d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x19d45d0">
+    <command xml:space="preserve">wear clothes</command>
+    <result xml:space="preserve">You can&apos;t wear that!
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x19d4750"/>
+    </children>
+  </item>
+  <item nodeId="node-0x19d4750">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">(first opening your apartment door)
+You shouldn&apos;t leave without your cellphone.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x19d48d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x19d48d0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  your clothes
+  a Playercellphone
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x19d4a50">
+    <command xml:space="preserve">take phone, wear clothes</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x19d4bd0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x19d4bd0">
+    <command xml:space="preserve">take phone</command>
+    <result xml:space="preserve">(the cellphone)
+Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x19d4d50"/>
+    </children>
+  </item>
+  <item nodeId="node-0x19d4d50">
+    <command xml:space="preserve">take clothes</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x19d4ed0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x19d4ed0">
+    <command xml:space="preserve">wear clothes</command>
+    <result xml:space="preserve">You can&apos;t wear that!
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x19f0180">
+    <command xml:space="preserve">about</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x19f0300"/>
+    </children>
+  </item>
+  <item nodeId="node-0x19f0300">
+    <command xml:space="preserve">help</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x19f0480">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">You rattle the lock, fiddling with the manual side. It doesn&apos;t work.
+
+Ring... Ring...
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x19f0600"/>
+    </children>
+  </item>
+  <item nodeId="node-0x19f0600">
+    <command xml:space="preserve">answer the phone</command>
+    <result xml:space="preserve">A gruff voice on the other end fades in.
+
+&quot;Hello, Mister Hälberg. You don&apos;t know me, but I... I know you. I know what you do. I know who you work for. You&apos;ve checked your door, right? It seems you know things that We want to know.&quot;
+
+&quot;You don&apos;t know me very well. My name is Mister K. Right now, the Mitsutoya implant in your head is mine.&quot; As he says that, your vision goes blank.
+
+&quot;I can make you hear anything,&quot; he says, the voice deepening and echoing,&quot; I can make you see anything,&quot; your vision filled with fire, &quot;and most of all, Mr. Hälberg, I can make you feel anything.&quot; Your skin crawls, burning. Pain rushes through your body as you drop to the floor.
+
+&quot;Goodbye, Mr. Hälberg. Come see me in the Osman building, floor 314. You&apos;ll know where I am.&quot;
+
+Your vision clears. You realize you never picked up the phone: It&apos;s sitting tidily on its base, the handset glistening its usual ruby red.
+You set down receiver.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x19f0780"/>
+    </children>
+  </item>
+  <item nodeId="node-0x19f0780">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">You shouldn&apos;t leave without your cellphone.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x19f0900"/>
+    </children>
+  </item>
+  <item nodeId="node-0x19f0900">
+    <command xml:space="preserve">take phone</command>
+    <result xml:space="preserve">(the cellphone)
+Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x19f0a80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x19f0a80">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">You shouldn&apos;t leave without your cellphone.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x19f0c00">
+    <command xml:space="preserve">take phone</command>
+    <result xml:space="preserve">(the cellphone)
+Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x19f0d80"/>
+      <child nodeId="node-0x1a1a5b0"/>
+      <child nodeId="node-0x1a61620"/>
+    </children>
+  </item>
+  <item nodeId="node-0x19f0d80">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">You rattle the lock, fiddling with the manual side. It doesn&apos;t work.
+
+Ring... Ring...
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x19f0f00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x19f0f00">
+    <command xml:space="preserve">answer phone</command>
+    <result xml:space="preserve">A gruff voice on the other end fades in.
+
+&quot;Hello, Mister Hälberg. You don&apos;t know me, but I... I know you. I know what you do. I know who you work for. You&apos;ve checked your door, right? It seems you know things that We want to know.&quot;
+
+&quot;You don&apos;t know me very well. My name is Mister K. Right now, the Mitsutoya implant in your head is mine.&quot; As he says that, your vision goes blank.
+
+&quot;I can make you hear anything,&quot; he says, the voice deepening and echoing,&quot; I can make you see anything,&quot; your vision filled with fire, &quot;and most of all, Mr. Hälberg, I can make you feel anything.&quot; Your skin crawls, burning. Pain rushes through your body as you drop to the floor.
+
+&quot;Goodbye, Mr. Hälberg. Come see me in the Osman building, floor 314. You&apos;ll know where I am.&quot;
+
+Your vision clears. You realize you never picked up the phone: It&apos;s sitting tidily on its base, the handset glistening its usual ruby red.
+You set down receiver.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a1a130"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a1a130">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">The door swings open.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a1a2b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a1a2b0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Your apartment.
+A studio apartment. You try your best to try and maintain some amount of stable entropy. You don&apos;t spend much time here anyway.
+
+You can see your apartment door (open, leading south), an unkept bed and a sidetable (on which is a cyberdeck) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a1a430"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a1a430">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+Apartment Hallway
+You stand in a grungy, beaten-down corridor. It was once meant to be fairly futuristic, with paneled walls made of brushed steel, but the years of grime have really gotten to it. To the west is the atrium, to the north your apartment.
+
+You can see the door to your apartment (#A45), A46 and A44 here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1a1a5b0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">(first opening your apartment door)
+You rattle the lock, fiddling with the manual side. It doesn&apos;t work.
+
+Ring... Ring...
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a1a730"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a1a730">
+    <command xml:space="preserve">answer phone</command>
+    <result xml:space="preserve">A gruff voice on the other end fades in.
+
+&quot;Hello, Mister Hälberg. You don&apos;t know me, but I... I know you. I know what you do. I know who you work for. You&apos;ve checked your door, right? It seems you know things that We want to know.&quot;
+
+&quot;You don&apos;t know me very well. My name is Mister K. Right now, the Mitsutoya implant in your head is mine.&quot; As he says that, your vision goes blank.
+
+&quot;I can make you hear anything,&quot; he says, the voice deepening and echoing,&quot; I can make you see anything,&quot; your vision filled with fire, &quot;and most of all, Mr. Hälberg, I can make you feel anything.&quot; Your skin crawls, burning. Pain rushes through your body as you drop to the floor.
+
+&quot;Goodbye, Mr. Hälberg. Come see me in the Osman building, floor 314. You&apos;ll know where I am.&quot;
+
+Your vision clears. You realize you never picked up the phone: It&apos;s sitting tidily on its base, the handset glistening its usual ruby red.
+You set down receiver.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a1a8b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a1a8b0">
+    <command xml:space="preserve">answer phone</command>
+    <result xml:space="preserve">&lt;beep beep beep...&gt;You set down receiver.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a1aa30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a1aa30">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">(first opening your apartment door)
+The door swings open.
+
+You close the door behind you
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a1abb0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a1abb0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Apartment Hallway
+You stand in a grungy, beaten-down corridor. It was once meant to be fairly futuristic, with paneled walls made of brushed steel, but the years of grime have really gotten to it. To the west is the atrium, to the north your apartment.
+
+You can see the door to your apartment (#A45, to the north), A46 and A44 here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a1ad30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a1ad30">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">(first opening the door to your apartment (#A45, to the north))
+The door swings open.
+
+Your apartment.
+A studio apartment. You try your best to try and maintain some amount of stable entropy. You don&apos;t spend much time here anyway.
+
+You can see your apartment door (open, leading south), an unkept bed and a sidetable (on which is a cyberdeck) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a1aeb0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a1aeb0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">You close the door behind you
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a36120"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a36120">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Apartment Hallway
+You stand in a grungy, beaten-down corridor. It was once meant to be fairly futuristic, with paneled walls made of brushed steel, but the years of grime have really gotten to it. To the west is the atrium, to the north your apartment.
+
+You can see the door to your apartment (#A45, to the north), A46 and A44 here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a362a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a362a0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Apartment Atrium
+A wide-open atrium, coated once again in grungy, nasty steel. To the east is the hallway, to the south lies the street.
+
+a helper robot
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a36420"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a36420">
+    <command xml:space="preserve">x robot</command>
+    <result xml:space="preserve">A rather useless robot which is absorbed in making toast.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a365a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a365a0">
+    <command xml:space="preserve">x toast</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a36720"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a36720">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Mansk Downtown
+Downtown Mansk: Beaten down and nearly in rubble. To the south lies the old Museum of Mansk, to the east, more downtown. Mansk&apos;s towering Osman building spears out among the generally smaller office buildings and hotels.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a368a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a368a0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Central Mansk Downtown
+Mansk&apos;s central district, the core downtown is filled with run-down shops. To the North looms the massive Osman building, one of the few mega-complexes around.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a36a20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a36a20">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Osman Building
+The Osman building towers above. To the south is much of Mansk&apos;s central downtown.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a36ba0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a36ba0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  a cellphone
+  a shirt (being worn)
+  baggy pants (being worn)
+  a pair of shoes (being worn)
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a36d20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a36d20">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">
+Osman Building First Floor
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a36ea0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a36ea0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Osman Building First Floor
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a611a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a611a0">
+    <command xml:space="preserve">in elevator</command>
+    <result xml:space="preserve">I only understood you as far as wanting to (go) in.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a61320"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a61320">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">
+Osman Building Elevator
+You can see a Button Panel here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a614a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a614a0">
+    <command xml:space="preserve">use panel</command>
+    <result xml:space="preserve">You will have to be more specific about your intentions.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1a61620">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">I am carrying:
+  a cellphone
+  a shirt (being worn)
+  baggy pants (being worn)
+  a pair of shoes (being worn)
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a617a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a617a0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Your apartment.
+I stand in my studio apartment. It&apos;s not much, but for what I get paid, it&apos;s pretty damn lavish. I really should clean more often.
+
+I can see the door to my apartment and a sidetable (on which is a cyberdeck) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a61920"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a61920">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening the door to my apartment)
+I figure I should go south to Cyberia for a beer. The lock on my door doesn&apos;t totally work
+Ring... Ring...
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a61aa0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a61aa0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening the door to my apartment)
+I keep fiddling with the lock. A voice in my head tells me to answer the phone. It&apos;s rather upset at me.
+
+Ring... Ring...
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a61c20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a61c20">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening the door to my apartment)
+I keep fiddling with the lock. A voice in my head tells me to answer the phone. It sounds irritated like a mother at a belligerent child.
+
+Ring... Ring...
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a61da0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a61da0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening the door to my apartment)
+I keep fiddling with the lock. A voice in my head tells me to answer the phone. It wants me dead.
+
+Ring... Ring...
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a61f20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a61f20">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening the door to my apartment)
+I keep fiddling with the lock. A voice in my head tells me to answer the phone. (Dear player, please answer the goddamn phone)
+Ring... Ring...
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a7c120"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a7c120">
+    <command xml:space="preserve">answer phone</command>
+    <result xml:space="preserve">A gruff voice on the other end fades in.
+
+&quot;Hello, Mister Hälberg. You don&apos;t know me, but I... I know you. I know what you do. I know who you work for. You&apos;ve checked your door, right? It seems you know things that We want to know.&quot;
+
+I gawk quietly, unable to speak for myself.
+
+&quot;You don&apos;t know me very well. My name is Mister K. Right now, the Mitsutoya implant in your head is mine.&quot; My mind goes numb. I struggle to stand, shifting from side to side as my vision goes pitch black.
+
+&quot;I can make you hear anything,&quot; he says, the voice becoming ominous, rattling in my head, &quot;I can make you see anything,&quot; my head filling with the vision of fire surrounding me, my brain racing, panicing, &quot;and most of all, Mr. Hälberg, I can make you feel anything.&quot; I drop to the floor; I would scream if I had a voice, my skin crawling as though a thousand millipedes crawled beneath my skin.
+
+&quot;Goodbye, Mr. Hälberg. Come see me in the Osman building. You&apos;ll know where I am.&quot;
+
+And with that, my conciousness slammed into me like a meteor coming in for impact. Scrambling, I look at the phone. It&apos;s still on its receiver, happily glistening in the light of the dingy old incandescents.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a7c2a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a7c2a0">
+    <command xml:space="preserve">take cheese</command>
+    <result xml:space="preserve">I can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1a7c420">
+    <command xml:space="preserve">take all</command>
+    <result xml:space="preserve">cellphone: Taken.
+cyberdeck: Not really useful right now.
+Ono-Sendai subscription card: You pull out the calling card. The text &quot;JØV HÄLBERG:2125554240&quot; is punched into the plastic. You place it back into the Cyberdeck.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a7c5a0"/>
+      <child nodeId="node-0x1a7c720"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a7c5a0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  a cellphone
+  an unkept bed
+  a shirt (being worn)
+  baggy pants (being worn)
+  a pair of shoes (being worn)
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1a7c720">
+    <command xml:space="preserve">take bed</command>
+    <result xml:space="preserve">That&apos;s hardly portable.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a7c8a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a7c8a0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  a cellphone
+  a shirt (being worn)
+  baggy pants (being worn)
+  a pair of shoes (being worn)
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a7ca20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a7ca20">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening your apartment door)
+You rattle the lock, fiddling with the manual side. It doesn&apos;t work.
+
+Ring... Ring...
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a7cba0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a7cba0">
+    <command xml:space="preserve">answer phone</command>
+    <result xml:space="preserve">A gruff voice on the other end fades in.
+
+&quot;Hello, Mister Hälberg. You don&apos;t know me, but I... I know you. I know what you do. I know who you work for. You&apos;ve checked your door, right? It seems you know things that We want to know.&quot;
+
+&quot;You don&apos;t know me very well. My name is Mister K. Right now, the Mitsutoya implant in your head is mine.&quot; As he says that, your vision goes blank.
+
+&quot;I can make you hear anything,&quot; he says, the voice deepening and echoing,&quot; I can make you see anything,&quot; your vision filled with fire, &quot;and most of all, Mr. Hälberg, I can make you feel anything.&quot; Your skin crawls, burning. Pain rushes through your body as you drop to the floor.
+
+&quot;Goodbye, Mr. Hälberg. Come see me in the Osman building, floor 314. You&apos;ll know where I am.&quot;
+
+Your vision clears. You realize you never picked up the phone: It&apos;s sitting tidily on its base, the handset glistening its usual ruby red.
+You set down receiver.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a7cd20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a7cd20">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening your apartment door)
+The door swings open.
+
+You close the door behind you
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a7cea0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a7cea0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening A46)
+The door swings open.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aa6190"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aa6190">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening A46)
+The door swings open.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aa6310"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aa6310">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Apartment Hallway
+You stand in a grungy, beaten-down corridor. It was once meant to be fairly futuristic, with paneled walls made of brushed steel, but the years of grime have really gotten to it. To the west is the atrium, to the north your apartment.
+
+You can see the door to your apartment (#A45, to the north), A46 and A44 here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1aa6490">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening the door to my apartment)
+I figure I should go south to Cyberia for a beer. Trying to unlock the door, I find that something is jamming the mechanism. Fuck!
+
+Ring... Ring...
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aa6610"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aa6610">
+    <command xml:space="preserve">answer phone</command>
+    <result xml:space="preserve">A gruff voice on the other end fades in.
+
+&quot;Hello, Mister Hälberg. You don&apos;t know me, but I... I know you. I know what you do. I know who you work for. It seems you know things that We want to know.&quot;
+
+I gawk quietly, unable to speak for myself.
+
+&quot;You don&apos;t know me very well. My name is Mister K. Right now, the Mitsutoya implant in your head is mine.&quot; My mind goes numb. I struggle to stand, shifting from side to side as my vision goes pitch black.
+
+&quot;I can make you hear anything,&quot; he says, the voice becoming ominous, rattling in my head, &quot;I can make you see anything,&quot; my head filling with the vision of fire surrounding me, my brain racing, panicing, &quot;and most of all, Mr. Hälberg, I can make you feel anything.&quot; I drop to the floor; I would scream if I had a voice, my skin crawling as though a thousand millipedes crawled beneath my skin.
+
+&quot;Goodbye, Mr. Hälberg. Come see me in the Osman building. You&apos;ll know where I am.&quot;
+
+And with that, my conciousness slammed into me like a meteor coming in for impact. Scrambling, I look at the phone. It&apos;s still on its receiver, happily glistening in the light of the dingy old incandescents.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aa6790"/>
+      <child nodeId="node-0x1ac21a0"/>
+      <child nodeId="node-0x1ac2620"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aa6790">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening your apartment door)
+You shouldn&apos;t leave without your cellphone.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aa6910"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aa6910">
+    <command xml:space="preserve">take phone</command>
+    <result xml:space="preserve">(the cellphone)
+Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aa6a90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aa6a90">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening your apartment door)
+The door swings open.
+
+You close the door behind you
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aa6c10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aa6c10">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening A46)
+That&apos;s not your apartment.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aa6d90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aa6d90">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening A44)
+That&apos;s not your apartment.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aa6f10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aa6f10">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Apartment Atrium
+A wide-open atrium, coated once again in grungy, nasty steel. To the east is the hallway, to the south lies the street.
+
+a helper robot
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1ac21a0">
+    <command xml:space="preserve">take phone</command>
+    <result xml:space="preserve">(the cellphone)
+Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ac2320"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ac2320">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening the door to my apartment)
+The door swings open.
+
+You close the door behind you
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ac24a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ac24a0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Apartment Hallway
+You stand in a grungy, beaten-down corridor. It was once meant to be fairly futuristic, with paneled walls made of brushed steel, but the years of grime have really gotten to it. To the west is the atrium, to the north your apartment.
+
+I can see the door to my apartment, A46 and A44 here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1ac2620">
+    <command xml:space="preserve">take cellphone</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ac27a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ac27a0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening the door to my apartment)
+The door swings open.
+
+Apartment Hallway
+You stand in a grungy, beaten-down corridor. It was once meant to be fairly futuristic, with paneled walls made of brushed steel, but the years of grime have really gotten to it. To the west is the atrium, to the north your apartment.
+
+I can see the door to my apartment, A46 and A44 here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ac2920"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ac2920">
+    <command xml:space="preserve">close door</command>
+    <result xml:space="preserve">I close the door to my apartment.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ac2aa0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ac2aa0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Apartment Atrium
+A wide-open atrium, coated once again in grungy, nasty steel. To the east is the hallway, to the south lies the street.
+
+a helper robot obsesses over some bread
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ac2c20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ac2c20">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Mansk Downtown
+Downtown Mansk: Beaten down and nearly in rubble. To the south lies the old Museum of Mansk, to the east, more downtown.The Osman building is the tallest thing in this shithole; Built by one of the universities, it was meant to take a damn nuke.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ac2da0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ac2da0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Museum of Mansk
+Old, crumbling museum courtyard. A set of stairs leads up to the entrance. To the south, a nightclub called Cyberia, in the ruins of what was once a small cluster of houses and shops.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ac2f20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ac2f20">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Cyberia
+A dingy nightclub. During the day, they keep the lights low. Tables litter the area, a bar at the back.
+
+The Cyberia bar stands at the back. Neon reflects off the wood bartop.
+
+Malroy, the bartender, stands behind the bar. Malroy has come to your aide in the past.
+
+A lone barstool sits before the bar.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aef100"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aef100">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Museum of Mansk
+Old, crumbling museum courtyard. A set of stairs leads up to the entrance. To the south, a nightclub called Cyberia built by someone who had a whole lot of willpower..
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aef280"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aef280">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Mansk Downtown
+Downtown Mansk: Beaten down and nearly in rubble. To the south lies the old Museum of Mansk, to the east, more downtown.This whole damn city has nothing left in it after the war.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aef400"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aef400">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Mansk Downtown
+Downtown Mansk: Beaten down and nearly in rubble. To the south lies the old Museum of Mansk, to the east, more downtown.The buildings were once astounding works of art. Now, they&apos;re mostly brick, the result of &quot;humanitarian&quot; aid after the war.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aef580"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aef580">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Mansk Downtown
+Downtown Mansk: Beaten down and nearly in rubble. To the south lies the old Museum of Mansk, to the east, more downtown.The clouds on the horizon smell of rain.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aef700"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aef700">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Mansk Downtown
+Downtown Mansk: Beaten down and nearly in rubble. To the south lies the old Museum of Mansk, to the east, more downtown.The Osman building is the tallest thing in this shithole; Built by one of the universities, it was meant to take a damn nuke.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aef880"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aef880">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Mansk Downtown
+Downtown Mansk: Beaten down and nearly in rubble. To the south lies the old Museum of Mansk, to the east, more downtown.This whole damn city has nothing left in it after the war.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aefa00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aefa00">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Mansk Downtown
+Downtown Mansk: Beaten down and nearly in rubble. To the south lies the old Museum of Mansk, to the east, more downtown.The buildings were once astounding works of art. Now, they&apos;re mostly brick, the result of &quot;humanitarian&quot; aid after the war.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aefb80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aefb80">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Mansk Downtown
+Downtown Mansk: Beaten down and nearly in rubble. To the south lies the old Museum of Mansk, to the east, more downtown.The clouds on the horizon smell of rain.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aefd00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aefd00">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Apartment Atrium
+A wide-open atrium, coated once again in grungy, nasty steel. To the east is the hallway, to the south lies the street.
+
+a helper robot obsesses over some bread
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1aefe80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1aefe80">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">I can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x12ae160"/>
+    </children>
+  </item>
+  <item nodeId="node-0x12ae160">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Apartment Hallway
+You stand in a grungy, beaten-down corridor. It was once meant to be fairly futuristic, with paneled walls made of brushed steel, but the years of grime have really gotten to it. To the west is the atrium, to the north your apartment.
+
+I can see the door to my apartment, A46 and A44 here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x12ae2e0">
+    <command xml:space="preserve">hit myself</command>
+    <result xml:space="preserve">Violence isn&apos;t the answer to this one.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x12ae460"/>
+    </children>
+  </item>
+  <item nodeId="node-0x12ae460">
+    <command xml:space="preserve">yell</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x12ae5e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x12ae5e0">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">I figure I should go south to Cyberia for a beer. The lock on my door doesn&apos;t totally work
+Ring... Ring...
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x12ae760"/>
+    </children>
+  </item>
+  <item nodeId="node-0x12ae760">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">I keep fiddling with the lock. A voice in my head tells me to answer the phone. It&apos;s rather upset at me.
+
+Ring... Ring...
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x12ae8e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x12ae8e0">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">I keep fiddling with the lock. A voice in my head tells me to answer the phone. It&apos;s upset at me, irritated like a mother at a belligerent child.
+
+Ring... Ring...
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x12aea60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x12aea60">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">I keep fiddling with the lock. A voice in my head tells me to answer the phone. It wants me dead.
+
+Ring... Ring...
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x12aebe0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x12aebe0">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">I keep fiddling with the lock. A voice in my head tells me to answer the phone. It wants me dead.
+
+Ring... Ring...
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x12aed60">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Your apartment.
+I stand in my studio apartment. It&apos;s not much, but for what I get paid, it&apos;s pretty damn lavish. I really should clean more often.
+
+I can see the door to my apartment and a sidetable (on which are a cellphone and a cyberdeck) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x12aeee0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x12aeee0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Your apartment.
+I stand in my studio apartment. It&apos;s not much, but for what I get paid, it&apos;s pretty damn lavish. I really should clean more often.
+
+I can see the door to my apartment and a sidetable (on which are a cellphone and a cyberdeck) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b3d180"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b3d180">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Your apartment.
+I stand in my studio apartment. It&apos;s not much, but for what I get paid, it&apos;s pretty damn lavish. I really should clean more often.
+
+I can see the door to my apartment and a sidetable (on which are a cellphone and a cyberdeck) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b3d300"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b3d300">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening the door to my apartment)
+I figure I should go south to Cyberia for a beer. The lock on my door doesn&apos;t totally work
+Ring... Ring...
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b3d480"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b3d480">
+    <command xml:space="preserve">answer phone</command>
+    <result xml:space="preserve">A gruff voice on the other end fades in.
+
+&quot;Hello, Mister Hälberg. You don&apos;t know me, but I... I know you. I know what you do. I know who you work for. It seems you know things that We want to know.&quot;
+
+I gawk quietly, unable to speak for myself.
+
+&quot;You don&apos;t know me very well. My name is Mister K. Right now, the Mitsutoya implant in your head is mine.&quot; My mind goes numb. I struggle to stand, shifting from side to side as my vision goes pitch black.
+
+&quot;I can make you hear anything,&quot; he says, the voice becoming ominous, rattling in my head, &quot;I can make you see anything,&quot; my head filling with the vision of fire surrounding me, my brain racing, panicing, &quot;and most of all, Mr. Hälberg, I can make you feel anything.&quot; I drop to the floor; I would scream if I had a voice, my skin crawling as though a thousand millipedes crawled beneath my skin.
+
+&quot;Goodbye, Mr. Hälberg. Come see me in the Osman building. You&apos;ll know where I am.&quot;
+
+And with that, my conciousness slammed into me like a meteor coming in for impact. Scrambling, I look at the phone. It&apos;s still on its receiver, happily glistening in the light of the dingy old incandescents.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b3d600"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b3d600">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening the door to my apartment)
+I pause -- I&apos;m missing something... Where did I leave my cellphone?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b3d780"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b3d780">
+    <command xml:space="preserve">take phone</command>
+    <result xml:space="preserve">(the cellphone)
+Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b3d900"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b3d900">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening the door to my apartment)
+The door swings open.
+
+You close the door behind you
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1b3da80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1b3da80">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Apartment Hallway
+You stand in a grungy, beaten-down corridor. It was once meant to be fairly futuristic, with paneled walls made of brushed steel, but the years of grime have really gotten to it. To the west is the atrium, to the north your apartment.
+
+I can see the door to my apartment, A46 and A44 here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+</Skein>
